@@ -1,7 +1,9 @@
 `price`: Product price (float)
+
 `quantity`: Initial quantity in stock (int)
 
 **search product:**
+
 `name`: Product name to search for (str)
 
 **Update Product:**
